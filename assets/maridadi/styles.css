@@ -1,0 +1,20 @@
+/* p{
+    color: brown;
+    font-size: 100px;
+    font-weight: 200;
+    font-style: italic;
+} */
+/* styling using classes */
+.external_css {
+    color: brown;
+    font-size: 100px;
+    font-weight: 200;
+    font-style: italic;
+}
+#external_id {
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    font-weight: 200;
+    font-style: italic;
+}
